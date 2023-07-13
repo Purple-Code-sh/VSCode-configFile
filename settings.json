@@ -1,0 +1,17 @@
+{
+  "workbench.colorTheme": "Purple Night",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "eslint.codeActionsOnSave.rules": null,
+  "eslint.format.enable": true,
+  "editor.cursorBlinking": "phase",
+  "editor.linkedEditing": true,
+  "editor.guides.bracketPairs": true,
+  "breadcrumbs.enabled": false,
+  "editor.stickyScroll.enabled": true,
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.fontFamily": "Cascadia Code PL",
+  "editor.fontLigatures": true,
+  "terminal.integrated.fontFamily": "Cascadia Code PL"
+}
